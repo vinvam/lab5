@@ -28,15 +28,15 @@
 			<a class="btn btn-default" href="#" role="button">{{name}}</a>
 		{{/each}}
 
-		<form id="addFriendForm" role="form" method="get" action="/add">
+		<form id="addTaskForm" role="form" method="get" action="/add">
 			<h3>Add a task</h3>
 		    <div class="form-group">
-		      <label for="name">Blurb:</label>
-		      <input type="text" class="form-control" id="name" placeholder="Name" name="name">
+		      <label for="name">Blurb</label>
+		      <input type="text" class="form-control" id="name" placeholder="werds" name="name">
 		    </div>
 		    <div class="form-group">
-		      <label for="description">I'm going to...:</label>
-		      <input type="text" class="form-control" id="description" placeholder="Description" name="description">
+		      <label for="description">I'm going to...</label>
+		      <input type="text" class="form-control" id="description" placeholder="moar werds" name="description">
 		    </div>
 		    <input type="submit" id="submitBtn" class="btn btn-default" value="Add task"></input>
 		</form>
