@@ -1,34 +1,63 @@
 {
-	"friends": [
+	"tasks": [
+
 		{
-			"name": "Doug Engelbart",
-			"description": "Has awesome pet mice",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Douglas_Engelbart_in_2008.jpg/972px-Douglas_Engelbart_in_2008.jpg"			
+			"name": "Call mom",
+			"description": "call mom"
 		},
 		{
-			"name": "Ivan Sutherland",
-			"description": "Great at sketching",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/5/5c/Ivan_Sutherland_at_CHM.jpg"			
+			"name": "Gym",
+			"description": "go to the gym"
+
 		},
 		{
-			"name": "Lucy Suchman",
-			"description": "Loves Trukese navigators",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/d/df/Lucy_Suchman.jpeg"			
+			"name": "Read",
+			"description": "read twilight"
 		},
 		{
-			"name": "Vannevar Bush",
-			"description": "Has stellar associative memory",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Vannevar_Bush_portrait.jpg"			
+			"name": "Run",
+			"description": "go for a 2 mile jog"
 		},
 		{
-			"name": "Grace Hopper",
-			"description": "Only friend with a Navy ship named after them",
-			"imageURL": "http://www.personal.psu.edu/djd5202/gHop.jpg"
+			"name": "Email Doc",
+			"description": "email Dr. Smith about stuff "
 		},
 		{
-			"name": "Allen Newell",
-			"description": "Really into psychology",
-			"imageURL": "http://www.nap.edu/html/biomems/photo/anewell.JPG"
+			"name": "Something",
+			"description": "do something"
+		},
+				{
+			"name": "Something",
+			"description": "do something"
+		},
+		{
+			"name": "Something",
+			"description": "do something"
+		},
+		{
+			"name": "Something",
+			"description": "do something"
+		},
+		{
+			"name": "Something",
+			"description": "do something"
+		},
+		{
+			"name": "Something",
+			"description": "do something"
+		},
+		{
+			"name": "Something",
+			"description": "do something"
+		},
+		{
+			"name": "Something",
+			"description": "do something"
+		},
+		{
+			"name": "Something",
+			"description": "do something"
 		}
 	]
+
 }

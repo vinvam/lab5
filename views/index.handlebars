@@ -2,7 +2,7 @@
 
 <html>
 <head>
-	<title>My HCI Friends</title>	
+	<title>Live Free</title>	
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- JS -- >
@@ -29,12 +29,8 @@
 		<h1>My HCI Friends</h1>
 
 
-		{{#each friends}}
-		<div>
-			<img src="images/{{image}}" alt="friend image">
-			<h3>{{name}}</h3>
-			<p>All my friends are imaginary.</p>
-		</div>
+		{{#each tasks}}
+			<a class="btn btn-default" href="#" role="button">{{name}}</a>
 		{{/each}}
 
 		<form id="addFriendForm" role="form" method="get" action="/add">
